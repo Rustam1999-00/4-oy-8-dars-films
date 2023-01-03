@@ -62,7 +62,7 @@ elForm.addEventListener('submit',function(evt){
         
             }
             else{
-                elList.innerHTML = `<li><h2 class="h2 my-5 text-center text-danger">NOT FOUND</h2></li>`;
+                elList.innerHTML = `<li><h2 class="h2 my-5 text-center text-danger"> FILMS NOT FOUND</h2></li>`;
             }
         })
     }
